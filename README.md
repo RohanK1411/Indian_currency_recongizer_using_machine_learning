@@ -1,4 +1,4 @@
-# notify
+# A-Eye
 
 A new Flutter project.
 
